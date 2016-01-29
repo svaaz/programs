@@ -1,0 +1,6 @@
+gcc release.c 
+cp a.out release.full
+cp release.full ~/local/symbols/
+mv release.full release
+mv release ~/local/bin/
+cd ~/local/bin/
