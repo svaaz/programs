@@ -2,8 +2,9 @@
 
 #define TP_CARD_COUNT 5
 
-/* This Program tests the distribution of DJB2 Hashing Algorithm, just for my satisfaction that it work ;) ;) */
+/* This Program tests the distribution of DJB2 Hashing Algorithm, just for my satisfaction that it works ;) ;) */
 
+//Original Source :
 //http://www.cse.yorku.ca/~oz/hash.html
 
 unsigned long hash(unsigned char *str)
