@@ -19,7 +19,7 @@ int main (void)
     
     in little Endian machine 1 will be assigned 
     
-    in the Big-Endian machine 0 will be assigned !
+    in the Big-Endian machine 0 will be assigned in the lsb!
     
     */
     
